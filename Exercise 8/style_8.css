@@ -1,0 +1,14 @@
+p {
+    border: 2px solid black;
+    width: 200px;
+    padding: 40px;
+}
+p:first-child {
+    background: url("duck.png") no-repeat left;
+}
+p:nth-child(2) {
+    background: url("duck.png") no-repeat center;
+}
+p:last-child {
+    background: url("duck.png") no-repeat bottom right;
+}

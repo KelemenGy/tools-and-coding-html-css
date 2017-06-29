@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+h2 {
+    color: orange;
+}
+p {
+    font-size: 18px;
+}
+#food {
+    color: blue;
+    list-style-type: square;
+}
+#fruit, #veg {
+    color: black;
+}
+#fruit {
+    list-style-type: disc;
+}
